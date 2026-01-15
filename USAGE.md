@@ -6,7 +6,7 @@
 
 ```toml
 [dependencies]
-floss-cli = "0.1.1"
+floss-cli = "0.1.2"
 ```
 
 > 本库基于 tokio 异步运行时；你的调用代码需要处于 tokio runtime 中。
