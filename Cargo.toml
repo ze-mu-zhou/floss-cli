@@ -7,7 +7,6 @@ license = "Apache-2.0"
 readme = "README.md"
 repository = "https://github.com/ze-mu-zhou/floss-cli"
 # 这是一个本地 wrapper；如需发布到 crates.io，请改成你自己的仓库地址。
-repository = "https://github.com/ze-mu-zhou/floss-cli"
 keywords = ["floss", "malware", "reverse-engineering", "cli", "wrapper"]
 categories = ["command-line-utilities"]
 
