@@ -1,6 +1,6 @@
 [package]
 name = "floss-cli"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "在 Rust 中以子进程方式调用 FLARE FLOSS CLI，并可选解析 -j JSON 输出"
 license = "Apache-2.0"

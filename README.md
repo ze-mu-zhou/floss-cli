@@ -7,6 +7,10 @@
 - 执行命令并捕获 `stdout/stderr`
 - 可选：在启用 `-j/--json` 时解析 JSON 输出（内置 `ResultDocument`，也支持自定义 `serde` 类型）
 
+## 完整用法文档
+
+全部 API、执行模式、错误语义与示例见 [USAGE.md](USAGE.md)。
+
 ## 快速使用
 
 > 本库基于 tokio 异步运行时，调用时需处于 tokio runtime 中。
